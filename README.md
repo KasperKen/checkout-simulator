@@ -1,4 +1,4 @@
-# shopping-cart-js
+# Checkout Simulator
 
 This is a simulated cart and checkout system that supports the following features.
 - The cart holds items, prices, and quanities.
