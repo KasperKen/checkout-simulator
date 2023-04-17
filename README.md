@@ -7,12 +7,14 @@ This is a simulated cart and checkout system that supports the following feature
 - proccessing payments from specified credit cards and displaying balance totals, and totals due.
 
 ## Download
-'git clone https://github.com/kasperken/shopping-cart-js'
+Git 
+> git clone https://github.com/kasperken/shopping-cart-js
 
 ## Installing Required Packages
-[Install NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) 
-Run 'Node install'
-In the shopping-cart-js directory, run 'npm install'
+Install NPM - https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+
+Install dependancies in the shopping-cart-js directory with..
+> npm install
 
 ## Usage
 1. In the shopping-cart-js directory, run 'node shopping-cart.js'.
