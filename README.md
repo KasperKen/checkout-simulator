@@ -1,10 +1,10 @@
 # shopping-cart-js
 
 This is a simulated cart and checkout system that supports the following features.
-1. The cart holds items, prices, and quanities.
-2. Adding to and removing items from the cart.
-3. Totalling price of all items in the cart.
-4. proccessing payments from specified credit cards and displaying balance totals, and totals due.
+- The cart holds items, prices, and quanities.
+- Adding to and removing items from the cart.
+- Totalling price of all items in the cart.
+- proccessing payments from specified credit cards and displaying balance totals, and totals due.
 
 ## Download
 'git clone https://github.com/kasperken/shopping-cart-js'
